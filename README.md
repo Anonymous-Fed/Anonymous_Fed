@@ -25,9 +25,9 @@ By setting different parameters and run the command, you can replicate results o
 Enjoy yourself!
 
 Paper Hash code:
-
+7caba0708a2666d7e86c64bae8d64ab6
 
 Appendix Hash code:
-
+394c1c375852d9cc6a7107b5a3b80332
 
 For the safety of the code, some files are encrypted, but they can be run directly. They will be public when the paper is published.
